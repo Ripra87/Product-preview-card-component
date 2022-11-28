@@ -1,0 +1,76 @@
+
+body {
+    background-color: hsl(30, 38%, 92%) ;
+}
+
+h1 {
+    font-family: 'Fraunces', serif;
+    line-height:1em;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 0.2rem;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+img {
+    height: 486px;
+    width: 324px;
+    border-top-left-radius: 4%;
+    border-bottom-left-radius: 4%;
+}
+
+input {
+    width: 17em;
+    height:3.5em;
+    background-color:hsl(158, 36%, 37%);
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    border:none ;
+    border-radius: 20%;
+}
+
+.body {
+    background-color: white;
+    margin-top: 200px;
+    width:40.5em;
+    position:relative;
+    left:34.37em;
+    border-radius: 4%;
+}
+
+.offer-description {
+    position:absolute;
+    bottom:3.5em; 
+    left: 23.5em;
+    width:14em;
+}
+
+.offer {
+    line-height: 1.5rem;
+}
+
+.price1 {
+    font-family: 'Fraunces', serif;
+    font-size:x-large;
+}
+
+.price2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    text-decoration: line-through;
+    position: relative;
+    left:9em;
+    bottom: 3.6em;
+}
+
+.attribution {
+    text-align: center;
+}
